@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that sniffes some ports
+
+netstat -plnt
